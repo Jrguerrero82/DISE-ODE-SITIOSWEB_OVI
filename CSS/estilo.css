@@ -28,9 +28,9 @@ header{
 
 aside{
     background-color:grey;
-    display: inline-block;
+    float: right;
     max-width: 33%;
-    margin-top: 10px;
+    margin-left: 10px;
     
 
 }
