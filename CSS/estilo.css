@@ -17,7 +17,8 @@ header{
     padding: 1.0em 1em;
 }
 .contenedor{
-    background-color: red;
+    
+    background-color:grey;
 }
 .centrar{
     background-color: chocolate;
@@ -28,9 +29,12 @@ footer{
     background-color: darkgreen;
 }
 aside{
-    background-color: yellow;
+    background-color:gainsboro;
     display: inline-block;
     max-width: 34%;
+    margin-top: 10px;
+    
+
 }
 /* MENU*/
 .menu li{
