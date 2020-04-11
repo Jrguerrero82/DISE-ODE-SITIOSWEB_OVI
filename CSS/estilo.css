@@ -6,7 +6,7 @@ nav, header, .contenedor, footer{
     margin: auto;
 }
 nav{    
-    background-color: rgba(187, 255, 0, 0.918);
+    background-color: orangered;
     text-align: center;
 } 
 header{
