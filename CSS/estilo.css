@@ -25,16 +25,17 @@ header{
     display: inline-block;
     max-width: 65%;
 }
-footer{
-    background-color: darkgreen;
-}
+
 aside{
-    background-color:gainsboro;
+    background-color:grey;
     display: inline-block;
-    max-width: 34%;
+    max-width: 33%;
     margin-top: 10px;
     
 
+}
+footer{
+    background-color: darkgreen;
 }
 /* MENU*/
 .menu li{
