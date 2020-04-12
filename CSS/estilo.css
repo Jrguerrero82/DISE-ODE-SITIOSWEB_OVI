@@ -6,7 +6,7 @@ nav, header, .contenedor, footer{
     margin: auto;
 }
 nav{    
-    background-color: rgba(187, 255, 0, 0.918);
+    background-color: orangered;
     text-align: center;
 } 
 header{
@@ -17,21 +17,28 @@ header{
     padding: 1.0em 1em;
 }
 .contenedor{
-    background-color: red;
+    
+    background-color:grey;
 }
 .centrar{
     background-color: chocolate;
     display: inline-block;
     max-width: 65%;
 }
+
+aside{
+    background-color:grey;
+    display: inline-block;
+    float: right;
+    max-width: 33%;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+
+}
 footer{
     background-color: darkgreen;
 }
-aside{
-    background-color: lightcoral;
-    display: inline-block;
-    max-width: 34%;   
-    }
 /* MENU*/
 .menu li{
     display: inline-block;
