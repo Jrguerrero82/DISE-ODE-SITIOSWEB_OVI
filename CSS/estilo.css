@@ -30,8 +30,8 @@ footer{
 aside{
     background-color: lightcoral;
     display: inline-block;
-    max-width: 34%;
-}
+    max-width: 34%;   
+    }
 /* MENU*/
 .menu li{
     display: inline-block;
