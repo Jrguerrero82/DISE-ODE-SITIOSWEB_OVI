@@ -1,2 +1,86 @@
+<<<<<<< Updated upstream
 # DISE-ODE-SITIOSWEB_OVI
 VERSIÓN ACTUALIZADA 23 ABRIL 2020
+=======
+<!DOCTYPE html>
+<html lang-"en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Actividad 3 </title>
+    <link rel="stylesheet" href="CSS/estilo.css">
+</head>
+<body>
+    <header>
+        <img src="IMG/logoUNAD-HD.jpg" alt="logo de la UNAD">
+        <h1>DISEÑOS DE SITIOS WEB</h1>
+    </header>
+    <nav>
+    <ul class="menu">
+        <li class="boton"><a href="pagina1.html">Inicio</a>
+            <li class="boton"><a href="pagina2.html">Lecturas</a>
+                <li class="boton"><a href="#">Autores</a>
+                    <div class="listaDesplegable">
+                          <a href="#JOSE RICARDO GUERRERO">JOSE RICARDO GUERRERO</a>
+                          <a href="#JUAN PABLO BARRIOS">JUAN PABLO BARRIOS</a>
+                          <a href="#DIEGO ARMANDO CHALA GUERRERO">DIEGO ARMANDO CHALA GUERRERO</a>
+                    </div>
+                </li>                          
+            </li>
+        </li>
+    </ul>
+            </nav>
+    <section class="contenedor">
+        <section class="center">
+            <article>
+                <a name="JOSE RICARDO GUERRERO"></a>
+                <h3>JOSE RICARDO GUERRERO</h3>
+
+                <img src="IMG/jose.jpg" alt="Joseguerrero" width="400" height="400" aling="right" id="imgjose">
+                    <margin-left: 25px/>
+                    <p>Codigo: 301122_7</p>
+                    <p>Programa: Ingenieria de Sistemas</p>
+                    <p>Correo Electronico: ricardo.guerrero2908@gmail.com</p>
+                    <p>ID Skipe: Toto18112003@hotmail.com
+                    </p>
+                    
+                    <a name="JUAN PABLO BARRIOS"></a>     
+                    <h3>JUAN PABLO BARRIOS</h3>
+                        
+                    <img src="IMG/juan.jpg" alt="Juanbarrios" width="400" height="400">
+                    <margin-left: 25px/>
+                         <p>Codigo: 301122_7</p>
+                         <p>Programa: Ingenieria de Sistemas</p>
+                         <p>Correo Electronico: jotape.barrios@gmail.com</p>
+                         <p>ID Skipe: juan.pablo.ba.ra
+                        </p>
+
+                        <a name="DIEGO ARMANDO CHALA GUERRERO"></a>
+                        <h3>DIEGO ARMANDO CHALA GUERRERO</h3>
+        
+                    <img src="IMG/pp.jpg." alt="Diegochala" width="400" height="400">
+                    <margin-left: 25px/>
+                         <p>Codigo: 301122_7</p>
+                         <p>Programa: Ingenieria de Sistemas</p>
+                         <p>Correo Electronico: diarch03@hotmail.com</p>
+                         <p>ID Skipe: live:.cid.234e1dbabcbeeb93
+                         </p>
+        </section>
+     </section>
+     <footer>
+        <p>Información de la universidad.</p> 
+            <p>ISede nacional José Celestino Mutis: Calle 14 sur No. 14 - 23 </p> 
+            <p>IPBX:(+57) 1 344 3700 Bogotá D.C., Colombia </p> 
+            <p>ILínea nacional gratuita desde Colombia: 018000115223 </p> 
+            <p>IAtención al usuario: atencionalusuario@unad.edu.co </p> 
+            <p>I Anticorrupción: anticorrupcion@unad.edu.co </p>
+            
+            <img src="IMG/logos-iso-2019 (1).jpg" alt="Diegochala" width="200" height="110">
+            <margin-left: 25px/>
+</footer>
+</body>
+
+
+</html>
+
+>>>>>>> Stashed changes
