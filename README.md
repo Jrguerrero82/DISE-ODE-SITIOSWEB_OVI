@@ -93,7 +93,7 @@
 >>>>>>> Stashed changes
     </footer>
 
-</boby> 
+</boby>
 
 </html>
 
