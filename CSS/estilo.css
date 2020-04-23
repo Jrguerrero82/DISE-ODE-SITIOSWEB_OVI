@@ -3,7 +3,7 @@ body{
 }
 nav, header, .contenedor, footer{
     max-width: 92%;
-    margin: auto;
+    margin: auto; 
 }
 nav{    
      background-color:#919191;
@@ -65,5 +65,3 @@ li a, boton{
 li a:hover{
     background-color: red;
 }
-
-
