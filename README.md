@@ -1,26 +1,22 @@
+<!DOCTYPE html>
+<html lang-"en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <title>Actividad 3 </title>
     <link rel="stylesheet" href="CSS/estilo.css">
 </head>
-<boby>
+<body>
     <header>
         <img src="IMG/logoUNAD-HD.jpg" alt="logo de la UNAD">
         <h1>DISEÑOS DE SITIOS WEB</h1>
     </header>
     <nav>
         <ul class="menu">
-            <li class="boton"><a href="pagina1.html">Página Principal</a>
-            <li class="boton"><a href="pagina2.html">Lecturas</a>
-            </li>     
-            <li class="boton"><a href="#">Actividad</a>
-            <div class="listaDesplegable">
-                <a href="pagina2.html">Opc 1 </a>
-                <a href="pagina2.html">Opc 2 </a>
-                
-            </div>
+            <li class="boton"><a>Inicio</a>
+          <li class="boton"><a href="pagina2.html">Lecturas</a>
             </li>
+            </div>
             <li class="boton"><a href="pagina3.html">Autores</a>
                 </li>
          </ul>
