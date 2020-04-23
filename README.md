@@ -37,7 +37,6 @@
                     locales, regionales y globales con calidad, eficiencia y equidad social. 
                    </p>
             </article>
-
             <article>
                 <h3>Visión</h3>
                 <p> Se proyecta como una organización líder en Educación Abierta y a Distancia, reconocida a nivel 
@@ -62,16 +61,13 @@
                     <p>10.En la importancia de trabajar para que la proyección social y la investigación generen mejores condiciones de vida a las poblaciones vulnerables del país.</p>
                     </p>
             </article>
-
         </section>
         <aside>
              <h4>twitter</h4>
                 <a class="twitter-timeline" href="https://twitter.com/UniversidadUNAD?ref_src=twsrc%5Etfw">Tweets by UniversidadUNAD</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            </aside>
-        
-    </section>
+        </aside>
+        </section>
     <footer>
-<<<<<<< Updated upstream
         <p>Este es el pie de Pagina </p>
         <h6>by grupo 1 abril 2020</h6>
 =======
@@ -81,10 +77,9 @@
             Línea nacional gratuita desde Colombia: 018000115223 
             Atención al usuario: atencionalusuario@unad.edu.co 
             Anticorrupción: anticorrupcion@unad.edu.co </p>
-        <h6>by Juan Pablo Barrios</h6>
-        <h6>by Jose Ricardo Guerrero</h6>
-        <h6>by Diego Chala</h6>
->>>>>>> Stashed changes
+        <h6>by  Juan Pablo Barrios</h6>
+        <h6>by  Jose Ricardo Guerrero</h6>
+        <h6>by  Diego Chala</h6>
     </footer>
 
 </boby>
